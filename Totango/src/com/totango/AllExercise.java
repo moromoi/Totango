@@ -24,6 +24,7 @@ public class AllExercise {
 				max = num[i];
 			}
 		}
+		
 		//Print biggest number in array
 		System.out.println("Biggest number in array: " + max);
 
@@ -33,6 +34,7 @@ public class AllExercise {
 				secondMax = num[i];
 			}
 		}
+		
 		//Print second biggest number in array
 		System.out.println("Second biggest number in array: " + secondMax + "\n");
 	}
