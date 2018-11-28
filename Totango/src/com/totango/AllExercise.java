@@ -55,7 +55,9 @@ public class AllExercise {
 
 			//Flip the text
 			System.out.print("Reversed array: ");
-			for (int i = c.length - 1; i >=0; i--) {
+			for (int i = c.length - 1; i >= 0; i--) {
+				
+				//Print fliped text
 				System.out.print(c[i]);
 			}
 		}
